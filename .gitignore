@@ -1,5 +1,6 @@
+.env
 venv
 .idea
 .flaskenv
 instance
-.env
+**/__pycache__
