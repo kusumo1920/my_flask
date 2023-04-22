@@ -2,3 +2,4 @@ venv
 .idea
 .flaskenv
 instance
+.env
